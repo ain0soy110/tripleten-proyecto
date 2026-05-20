@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-vehicles_df = pd.read_csv('../vehicles_us.csv')
+vehicles_df = pd.read_csv('vehicles_us.csv')
 
 #Snake case
 vehicles_df.columns = (

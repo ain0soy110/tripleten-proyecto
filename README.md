@@ -21,4 +21,4 @@ La aplicación proporciona herramientas visuales interactivas construidas con Pl
 *   Plotly (Gráficos interactivos)
 
 ## Despliegue
-La aplicación web se encuentra desplegada y completamente en vivo en los servidores de Render.
+La aplicación web se encuentra desplegada y completamente en vivo en los servidores de Render; https://tripleten-proyecto.onrender.com/

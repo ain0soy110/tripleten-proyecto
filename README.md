@@ -1,5 +1,3 @@
-# tripleten-proyecto
-
 # Cuadro de Mando de Anuncios de Venta de Coches
 
 Este proyecto es una aplicación web interactiva desarrollada en Python utilizando Streamlit. La aplicación funciona como un cuadro de mando dinámico que analiza un conjunto de datos sobre anuncios de venta de vehículos en los Estados Unidos (`vehicles_us.csv`).
